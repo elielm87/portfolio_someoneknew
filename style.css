@@ -1,0 +1,143 @@
+html, body{
+	margin: 0px;
+	background-color: white;
+	font-family: 'Open Sans', sans-serif;
+
+}
+
+
+.navigation {
+	text-align: center;
+	position: fixed;
+	padding-top: 30px;
+    left: 0px;
+    top: 0px; 
+    z-index: 10;
+    width: 100%;
+
+}
+
+.navigation a {
+	margin: 0 45px;
+	color: black;
+   	text-decoration: none;
+   	display: inline-block;
+}
+
+
+
+#aboutus {
+
+	background-color: #f965b9;
+	color: white;
+	font-style: italic;
+	font-size: 80px;
+	padding-top: 1px;
+	padding-left: 5%;
+
+}
+
+
+#ourart {
+	background-color: #c266f9;
+	padding-top: 70px;
+	text-align: center;
+}
+
+#ourart img {
+
+    width: 220px;
+    height: auto;
+    display: inline-block;
+    padding-top: 10%;
+    padding: 10px;
+    border: 0px;
+    margin: 5px;
+
+}
+
+.inline-block
+{
+    display: inline-block;
+}
+
+.inline-block
+{
+    zoom: 1;
+    *display: inline;
+}
+
+.twenty-five-perc
+{
+    width: 25%;
+}
+
+#shop {
+	background-color: #66d8fa;
+	text-align: center;
+
+
+
+}
+
+#shop img{
+	height: 100%;
+	margin-top: 70px;
+	cursor: pointer;
+}
+
+
+#socialmedia {
+	background-color: #f9f266;
+	text-align: center;
+}
+
+
+#socialmedia img{
+	width: 0%;
+	height: auto;
+	margin-top: 30%;
+}
+
+#socialmedia img{
+	width: 20%;
+	height: auto;
+	margin-top: 60%;
+
+}
+
+#contact {
+	background-color: #66f98f;
+}
+
+
+.fullpage {
+	height: 100vh;
+	background: white; 
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	position: relative;
+}
+
+
+.fullpage p{
+	width: 80%;
+}
+
+
+.fullpage h2{
+	margin: 0px;
+	position: absolute;
+	text-align: center;
+	width: 100%;
+	top: 45%;
+	color: white;
+	font-size: 6vw;
+}
+
+#start {
+	background-size: 400px;
+	padding-top: 50px;
+	background-image: url('pics/someoneknew_round.png');
+}
